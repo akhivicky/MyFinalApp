@@ -18,6 +18,7 @@
     [super viewDidLoad];
     //hello world
     NSLog(@"my name is akhilesh what happend yaar chalen");
+    NSLog(@"kya hua bhai");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
